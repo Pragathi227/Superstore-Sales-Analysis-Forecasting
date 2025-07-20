@@ -75,12 +75,17 @@ A comprehensive data visualization project that analyzes sales performance, prod
 
 ## 📸 Screenshots
 
-```
+### Executive Summary
 ![Executive Summary](images/dashboard1.png)
+
+### Product Analysis
 ![Product Analysis](images/dashboard2.png)
+
+### Customer Behavior
 ![Customer Behavior](images/dashboard3.png)
+
+### Forecast & What-If Planner
 ![Forecast](images/dashboard4.png)
-```
 
 ---
 
