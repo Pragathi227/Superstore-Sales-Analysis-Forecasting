@@ -119,8 +119,4 @@ A comprehensive data visualization project that analyzes sales performance, prod
 
 ---
 
-## 📎 Project Link (Optional)
-
-- 📊 Tableau Public: [Link to Live Dashboards](#)
-
 
