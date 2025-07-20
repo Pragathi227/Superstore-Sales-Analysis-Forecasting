@@ -75,8 +75,6 @@ A comprehensive data visualization project that analyzes sales performance, prod
 
 ## 📸 Screenshots
 
-> Embed images here after publishing your dashboards. Sample Markdown:
-
 ```
 ![Executive Summary](images/dashboard1.png)
 ![Product Analysis](images/dashboard2.png)
