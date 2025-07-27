@@ -89,6 +89,13 @@ A comprehensive data visualization project that analyzes sales performance, prod
 
 ---
 
+## 🔗 Check it out on Tableau Public
+
+https://public.tableau.com/app/profile/pragathi.a6330
+
+---
+
+
 ## 🚀 Tools & Technologies Used
 
 - Tableau (Public)
